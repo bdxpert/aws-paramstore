@@ -1,2 +1,2 @@
 # aws-paramstore
-AWS paramstore integration with SpringBoot
+AWS paramstore integration with SpringBoot at startup
